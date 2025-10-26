@@ -10,6 +10,7 @@
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5.App.AssemblyInfoInputs.cache
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5.App.AssemblyInfo.cs
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5.App.csproj.CoreCompileInputs.cache
+/Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5.App.sourcelink.json
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5..AE07782D.Up2Date
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/Taller5.App.dll
 /Users/miguelbadillo/Taller5/Taller5.App/obj/Debug/net8.0/refint/Taller5.App.dll

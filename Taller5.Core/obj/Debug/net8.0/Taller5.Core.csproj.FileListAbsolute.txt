@@ -5,6 +5,7 @@
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.AssemblyInfoInputs.cache
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.AssemblyInfo.cs
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.csproj.CoreCompileInputs.cache
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.sourcelink.json
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.dll
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/refint/Taller5.Core.dll
 /Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.pdb
