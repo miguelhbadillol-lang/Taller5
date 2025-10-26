@@ -4,9 +4,7 @@ using System.Globalization;
 
 namespace Taller5.Core
 {
-    // ────────────────────────────────
-    // Tipo UniversalValue: acepta cualquier tipo de dato (int, double, fecha, string)
-    // ────────────────────────────────
+    
     public readonly struct UniversalValue : IComparable<UniversalValue>, IEquatable<UniversalValue>
     {
         public enum Kind { Integer, Double, DateTime, String }
@@ -87,9 +85,7 @@ namespace Taller5.Core
         static double ToDouble(UniversalValue v) => v.Type == Kind.Integer ? v._i : v._d;
     }
 
-    // ────────────────────────────────
-    // Clase DoublyLinkedList<T>
-    // ────────────────────────────────
+   
     public class Node<T>
     {
         public T Data;
@@ -104,7 +100,7 @@ namespace Taller5.Core
         public Node<T>? Tail { get; private set; }
         public int Count { get; private set; }
 
-        // Inserta manteniendo orden ascendente
+
         public void AddSorted(T value)
         {
             var n = new Node<T>(value);
@@ -141,7 +137,7 @@ namespace Taller5.Core
             Count++;
         }
 
-        // Mostrar adelante / atrás
+    
         public IEnumerable<T> Forward()
         {
             var cur = Head;
@@ -154,7 +150,7 @@ namespace Taller5.Core
             while (cur != null) { yield return cur.Data; cur = cur.Prev; }
         }
 
-        // Invertir enlaces (descendente)
+      
         public void SortDescendingInPlace()
         {
             var cur = Head;
@@ -170,7 +166,7 @@ namespace Taller5.Core
             Tail = oldHead;
         }
 
-        // Buscar elemento
+       
         public bool Contains(T value)
         {
             var cur = Head;
@@ -184,7 +180,7 @@ namespace Taller5.Core
             return false;
         }
 
-        // Eliminar último nodo
+  
         public bool RemoveLast()
         {
             if (Tail == null) return false;
@@ -196,7 +192,7 @@ namespace Taller5.Core
             return true;
         }
 
-        // Vaciar lista
+       
         public void Clear()
         {
             var cur = Head;
@@ -210,7 +206,7 @@ namespace Taller5.Core
             Count = 0;
         }
 
-        // Modas
+       
         public (List<T> modas, int frecuenciaMax) GetModes()
         {
             var dict = new Dictionary<T, int>();
@@ -236,7 +232,6 @@ namespace Taller5.Core
             return (modas, max);
         }
 
-        // Para gráfico de frecuencias
         public List<(T value, int count)> GetFrequenciesAscending()
         {
             var dict = new Dictionary<T, int>();
