@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taller5.Core/1.0.0": {
+        "runtime": {
+          "Taller5.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller5.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

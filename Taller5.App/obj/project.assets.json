@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Taller5.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Taller5.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taller5.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller5.Core/1.0.0": {
+      "type": "project",
+      "path": "../Taller5.Core/Taller5.Core.csproj",
+      "msbuildProject": "../Taller5.Core/Taller5.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Taller5.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/miguelbadillo/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/miguelbadillo/Taller5/Taller5.App/Taller5.App.csproj",
+      "projectName": "Taller5.App",
+      "projectPath": "/Users/miguelbadillo/Taller5/Taller5.App/Taller5.App.csproj",
+      "packagesPath": "/Users/miguelbadillo/.nuget/packages/",
+      "outputPath": "/Users/miguelbadillo/Taller5/Taller5.App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/miguelbadillo/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/miguelbadillo/Taller5/Taller5.Core/Taller5.Core.csproj": {
+              "projectPath": "/Users/miguelbadillo/Taller5/Taller5.Core/Taller5.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/miguelbadillo/.dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/miguelbadillo/Taller5/Taller5.Core/bin/Debug/net8.0/Taller5.Core.deps.json
+/Users/miguelbadillo/Taller5/Taller5.Core/bin/Debug/net8.0/Taller5.Core.dll
+/Users/miguelbadillo/Taller5/Taller5.Core/bin/Debug/net8.0/Taller5.Core.pdb
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.AssemblyInfoInputs.cache
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.AssemblyInfo.cs
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.csproj.CoreCompileInputs.cache
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.dll
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/refint/Taller5.Core.dll
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/Taller5.Core.pdb
+/Users/miguelbadillo/Taller5/Taller5.Core/obj/Debug/net8.0/ref/Taller5.Core.dll
