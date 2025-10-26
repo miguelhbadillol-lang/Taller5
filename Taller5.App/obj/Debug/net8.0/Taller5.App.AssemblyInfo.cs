@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller5.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12eeaea7ec2bc7fdebfcbfe5180242ce2a19b4a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a97f737600da5099ec9ce367dd0d2153e99ca939")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller5.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller5.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
